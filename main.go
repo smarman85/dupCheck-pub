@@ -1,7 +1,7 @@
 package main
 
 import (
-	"dupCheck-pub/cmd"
+	"github.com/smarman85/dupCheck-pub/cmd"
 )
 
 func main() {
