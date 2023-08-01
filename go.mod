@@ -1,4 +1,4 @@
-module dupCheck-pub
+module github.com/smarman85/dupCheck-pub
 
 go 1.20
 
