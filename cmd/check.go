@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"dupCheck/pkg/readYaml"
+	"dupCheck-prod/pkg/readYaml"
 
 	"github.com/spf13/cobra"
 )
